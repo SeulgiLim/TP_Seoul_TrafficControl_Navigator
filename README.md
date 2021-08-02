@@ -14,7 +14,7 @@
 ## 사용도구 및 분석환경
 
 ---
-- 전처리 및 분석, 시각화 : Pyhon 3.6.7, R, Excel, QGIS 3.8.3
+- 전처리 및 분석, 시각화 : Python 3.6.7, R, Excel, QGIS 3.8.3
 - Web Server : Redis, Docker, Django, HTML5
 - Data Collection Server : Flume, Hadoop, CentOS 7.6.1810(64bit), Virtual box VM
 - 기타 사용 : Jupyter LAB 1.1.4, Winscp, Putty

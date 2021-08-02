@@ -4,21 +4,23 @@
 
 분석 기간 : 2019년 10월 14일 ~ 2019년 11월 01일
 
-## 주제 선정 이유
+## 기획 의도
 
 ---
+- 서울시 25구 중 불법 주정차 취약 1위 구인 강남구를 주 타겟으로 
+- 강남구의 불법 주정차 취약 지역을 데이터 분석을 통해 도출하고, 그 중 교통 단속 CCTV가 설치되지 않은 지역에 설치 제안
+- 불법 주정차 단속 데이터를 수집, 저장하여 단속 요원이 활용할 수 있는 시각화 서비스 제공
 
-- 현재 서울시에서 불법주정차 감소 정책 (단속 기동반, CCTV, 생활불편 App 신고)을 시행하고 있지만 매년 증가
-- 4년동안 전국적으로 불법주정차 연계형 사고 손실금액은 약 2,200억
-- 서울 25개 구 중 불법 단속 건수, 서울 사업체, 종사자 수 1위인 강남구를 선정하여, 분석 진행함
-
-## 분석 방향
+## 사용도구 및 분석환경
 
 ---
+- 전처리 및 분석, 시각화 : Pyhon 3.6.7, R, Excel, QGIS 3.8.3
+- Web Server : Redis, Docker, Django, HTML5
+- Data Collection Server : Flume, Hadoop, CentOS 7.6.1810(64bit), Virtual box VM
+- 기타 사용 : Jupyter LAB 1.1.4, Winscp, Putty
 
-- 공공데이터를 활용한 CCTV 취약 지역에 추가 배치 제안
-- 실시간 불법 주정차 신고 데이터 분석 시스템을 통한
-단속 지역 추천 대시보드 제공
+![Untitled 8](https://user-images.githubusercontent.com/71672106/127818963-a2ddcf46-075d-4a72-b778-9119fb53811f.png)
+
 
 ## 분석 과정
 
@@ -91,7 +93,4 @@
 
 ![Untitled 7](https://user-images.githubusercontent.com/71672106/127818945-14fb4a64-2018-43b6-a604-c401ee9936f5.png)
 
-## Tools
 
----
-![Untitled 8](https://user-images.githubusercontent.com/71672106/127818963-a2ddcf46-075d-4a72-b778-9119fb53811f.png)

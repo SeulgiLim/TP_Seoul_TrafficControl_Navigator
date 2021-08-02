@@ -2,7 +2,7 @@
 
 분석 기간 : 2019년 10월 14일 ~ 2019년 11월 01일
 
-# 주제 선정 이유
+## 주제 선정 이유
 
 ---
 
@@ -10,7 +10,7 @@
 - 4년동안 전국적으로 불법주정차 연계형 사고 손실금액은 약 2,200억
 - 서울 25개 구 중 불법 단속 건수, 서울 사업체, 종사자 수 1위인 강남구를 선정하여, 분석 진행함
 
-# 분석 방향
+## 분석 방향
 
 ---
 
@@ -18,7 +18,7 @@
 - 실시간 불법 주정차 신고 데이터 분석 시스템을 통한
 단속 지역 추천 대시보드 제공
 
-# 분석 과정
+## 분석 과정
 
 ---
 
@@ -26,7 +26,7 @@
 
 ![Untitled](https://user-images.githubusercontent.com/71672106/127818807-7b5b681f-0da8-4e12-a4da-b9a57e4655b7.png)
 
-# 데이터 수집
+## 데이터 수집
 
 ---
 
@@ -44,7 +44,7 @@
 ![Untitled 1](https://user-images.githubusercontent.com/71672106/127818659-aab4f6a6-ded6-4de9-9a4d-ab0dadf37325.png)
 
 
-# 전처리 & 저장
+## 전처리 & 저장
 
 ---
 
@@ -59,7 +59,7 @@
 
 - T-test 진행
 
-# 분석
+## 분석
 
 ---
 
@@ -70,7 +70,7 @@
 
 ![Untitled 4](https://user-images.githubusercontent.com/71672106/127818849-6bbafb68-62d6-4318-bb48-1a69ba8bf594.png)
 
-# 결과
+## 결과
 
 ---
 
@@ -78,7 +78,7 @@
 - 
 ![Untitled 5](https://user-images.githubusercontent.com/71672106/127818914-48918a89-8a1e-4a38-a0f5-7db14eb93911.png)
 
-# 실시간 단속 Navigator
+## 실시간 단속 Navigator
 
 ---
 
@@ -89,7 +89,7 @@
 
 ![Untitled 7](https://user-images.githubusercontent.com/71672106/127818945-14fb4a64-2018-43b6-a604-c401ee9936f5.png)
 
-# Tools
+## Tools
 
 ---
 ![Untitled 8](https://user-images.githubusercontent.com/71672106/127818963-a2ddcf46-075d-4a72-b778-9119fb53811f.png)

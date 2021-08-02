@@ -41,7 +41,8 @@
 - 서울 횡단보도 현황 (2018 / 30,969건)
 - 서울시 강남구 단속 투입인력현황
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/02e832c5-fda1-4c49-992b-1a7a64df0807/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/02e832c5-fda1-4c49-992b-1a7a64df0807/Untitled.png)
+![Untitled 1](https://user-images.githubusercontent.com/71672106/127818659-aab4f6a6-ded6-4de9-9a4d-ab0dadf37325.png)
+
 
 # 전처리 & 저장
 

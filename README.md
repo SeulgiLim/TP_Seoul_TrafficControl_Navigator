@@ -93,8 +93,6 @@
 - 실시간 단속 Navigator는 불편 신고 앱을 통한 신고 데이터를 통해
 지도 시각화, 분석결과를 제공합니다.
 
-![Untitled 6](https://user-images.githubusercontent.com/71672106/127818939-339cfae7-f24b-41c9-917d-fc921299d447.png)
-
 ![Untitled 7](https://user-images.githubusercontent.com/71672106/127818945-14fb4a64-2018-43b6-a604-c401ee9936f5.png)
 
 
